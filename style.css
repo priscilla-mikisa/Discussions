@@ -1,0 +1,80 @@
+#container{
+    background-color: aliceblue;
+}
+.nav{
+    display: flex;
+    gap: 5%;
+
+}
+.label{
+    font-style: inherit;
+}
+.info{
+    display: flex;
+    font-size: large;
+    gap:2%;
+    float:right;
+}
+.image1{
+max-height: 20px;
+}
+.signups{
+    display:flex;
+    gap:5px;
+}
+.input{
+    color:aliceblue;
+    background-color: black;
+    border-radius: 500px;
+    width: 300px;
+    height: 70px;
+    padding:5px;
+    font-size: large;
+}
+.body{
+    display:flex;
+    gap:10%;
+    margin-top:5% ;
+}
+.info2{
+    border:none;
+    padding-left: 80px;
+    
+}
+.image2{
+    max-width: 80%;
+    margin-top: 10%;
+}
+.input2{
+    border-radius: 20px;
+    width: 300px;
+    height: 40px;
+
+}
+.heading1{
+    font-size: 60px;
+}
+.p1{
+    font-size: 30px;
+}
+.sentence{
+    display:flex;
+    padding: 2px;
+}
+.img1{
+    float:right;
+    max-width: 20%;
+}
+.img2{
+    float: right;
+    max-width: 30%;
+}
+.img3{
+    float:right;
+    max-width: 9%;
+}
+.sentence2{
+    margin-right: 100px;
+}
+
+
